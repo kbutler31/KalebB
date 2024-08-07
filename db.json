@@ -1,0 +1,144 @@
+{
+    "Flights" : [
+    {
+      "passenger": "Alexander Muñoz",
+      "airline": "Aeromexico",
+      "flightNumber": "51561",
+      "origin": {
+        "name": "Agadir–Al Massira Airport",
+        "code": "AGA",
+        "city": "Agadir",
+        "country": "Morocco"
+      },
+      "destination": {
+        "name": "Philadelphia International Airport",
+        "code": "PHL",
+        "city": "Philadelphia",
+        "country": "United States"
+      },
+      "date": "2025-04-07T21:32:29.466Z",
+      "seat": "1F",
+      "flightLength": 2
+    },
+    {
+      "passenger": "Sombun Sigurjónsson",
+      "airline": "Spring Japan",
+      "flightNumber": "10596",
+      "origin": {
+        "name": "Beijing Capital International Airport",
+        "code": "PEK",
+        "city": "Beijing",
+        "country": "China"
+      },
+      "destination": {
+        "name": "John F. Kennedy International Airport",
+        "code": "JFK",
+        "city": "New York",
+        "country": "United States"
+      },
+      "date": "2025-03-07T12:05:53.143Z",
+      "seat": "30C",
+      "flightLength": 4.75
+    },
+    {
+      "passenger": "Chan Einarsson",
+      "airline": "Air Europa",
+      "flightNumber": "UX5743",
+      "origin": {
+        "name": "Menara Airport",
+        "code": "RAK",
+        "city": "Marrakech",
+        "country": "Morocco"
+      },
+      "destination": {
+        "name": "Kotoka International Airport",
+        "code": "ACC",
+        "city": "Accra",
+        "country": "Ghana"
+      },
+      "date": "2025-05-14T14:05:18.191Z",
+      "seat": "10E",
+      "flightLength": 8.25
+    },
+    {
+      "passenger": "Ramesh Vasileva",
+      "airline": "Kenya Airways",
+      "flightNumber": "42638",
+      "origin": {
+        "name": "Dallas-Fort Worth International Airport",
+        "code": "DFW",
+        "city": "Dallas",
+        "country": "United States"
+      },
+      "destination": {
+        "name": "Agadir–Al Massira Airport",
+        "code": "AGA",
+        "city": "Agadir",
+        "country": "Morocco"
+      },
+      "date": "2025-06-13T19:18:21.653Z",
+      "seat": "32F",
+      "flightLength": 7.25
+    },
+    {
+      "passenger": "Ryoko Zheng",
+      "airline": "Emirates",
+      "flightNumber": "EK56",
+      "origin": {
+        "name": "Hamilton Island Airport",
+        "code": "HTI",
+        "city": "Hamilton Island",
+        "country": "Australia"
+      },
+      "destination": {
+        "name": "General Abelardo L. Rodríguez International Airport",
+        "code": "TIJ",
+        "city": "Tijuana",
+        "country": "Mexico"
+      },
+      "date": "2025-02-19T01:56:28.454Z",
+      "seat": "15C",
+      "flightLength": 6.75
+    },
+    {
+      "passenger": "Hisako Schütz",
+      "airline": "InterJet",
+      "flightNumber": "74376",
+      "origin": {
+        "name": "Djerba–Zarzis International Airport",
+        "code": "DJE",
+        "city": "Djerba",
+        "country": "Tunisia"
+      },
+      "destination": {
+        "name": "Dallas-Fort Worth International Airport",
+        "code": "DFW",
+        "city": "Dallas",
+        "country": "United States"
+      },
+      "date": "2024-09-25T16:19:33.345Z",
+      "seat": "17D",
+      "flightLength": 3.75
+    },
+    {
+      "passenger": "Karin Chand",
+      "airline": "Air Serbia",
+      "flightNumber": "17855",
+      "origin": {
+        "name": "Mackay Airport",
+        "code": "MKY",
+        "city": "Mackay",
+        "country": "Australia"
+      },
+      "destination": {
+        "name": "Nelson Airport",
+        "code": "NSN",
+        "city": "Nelson",
+        "country": "New Zealand"
+      },
+      "date": "2024-09-13T16:49:49.811Z",
+      "seat": "11F",
+      "flightLength": 8.5
+    }
+  ]
+}
