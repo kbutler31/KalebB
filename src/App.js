@@ -18,7 +18,7 @@ const App = () => {
   return (
     <>
       <div className="App">
-        <h1>Flight CRUD App</h1>
+        <h1>Flight Plan App</h1>
 
       </div>
 
